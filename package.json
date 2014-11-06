@@ -1,5 +1,7 @@
 {
   "name": "trips4taps",
+  "description": "Trips4Taps Demo",
+  "author": "John Ryan <john@jotryan.com>",
   "devDependencies": {
     "apache-server-configs": "^2.7.1",
     "grunt": "^0.4.5",
